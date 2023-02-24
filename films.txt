@@ -1,0 +1,112 @@
+watched:
+  Christofer Nolan
+    inception
+    the prestige
+    the dark knight 1-3
+    batman vs superman
+    dunkirk
+    tenet
+
+  Guy Ritchie
+    the gentlemen
+    wrath of man
+    rocknrolla
+    lock stock and two smokin barrels
+    snatch
+    sherlock holmes (guy ritchie)
+    the man from uncle
+  
+  Marvel
+    thor ragnarok
+    iron man 1-3
+    spider man
+
+  Qventin Tarantino
+    pulp fiction
+    reservoir dogs
+    kill bill
+    sin city
+    the hatefull eight
+    django unchained
+    inglorious bastards
+    once upon a time in hollywood
+    
+  Steven Spilberg
+    jurassic park
+    catch me if you can
+    ready player one
+
+  Edgar Wright
+    hot fuzz
+    baby driver
+
+  Denis Villneuve
+    sicario 1,2
+    dune
+    arrival
+    blade runner 2049
+
+  Others
+    free guy
+    atomic blonde
+    forrest gump
+    pirates of the caribbean
+    uncharted
+    drive
+    miracle on hudson
+    dont look up
+    hacksaw ridge
+    american psycho
+    shutter island
+    puss in boots 2
+    knives out
+    glass onion
+    fight club
+    the shawshank redemption
+    john wick 1,2
+    1+1
+    fast and furious
+    lawless
+    tinker tailor solder spy
+    the silence of the lambs
+    legend
+    big short
+    filth
+    the martian
+    ocean's 12,13
+    fear and loathing in las vegas
+    no country for old men
+    the hurt locker
+    american made
+    the walk
+    jack richer
+    edge of tomorrow
+    the hitman's bodyguard
+
+
+to watch:
+  operation fortune 
+  bullet train
+  the batman
+  schindler's list
+  the covenant
+  knockin on the heavens door
+  scott piligrim vs the world
+  the fighter
+  the menu
+  deepwater horizon
+  interstellar
+  dune 2
+  burn after reading
+  collateral
+  the big lebowski
+
+
+  harry potter ?
+  john wick 4 ?
+  all the money in the world ?
+  suburbicon ?
+  ad astra ?
+  no sudden moves ?
+
+
