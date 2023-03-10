@@ -82,18 +82,17 @@ watched:
     jack richer
     edge of tomorrow
     the hitman's bodyguard
-
+    the menu
+    bullet train
 
 to watch:
-  operation fortune 
-  bullet train
+  operation fortune
   the batman
   schindler's list
   the covenant
   knockin on the heavens door
   scott piligrim vs the world
   the fighter
-  the menu
   deepwater horizon
   interstellar
   dune 2
