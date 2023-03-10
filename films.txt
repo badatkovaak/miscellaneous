@@ -3,7 +3,6 @@ watched:
     inception
     the prestige
     the dark knight 1-3
-    batman vs superman
     dunkirk
     tenet
 
@@ -58,6 +57,7 @@ watched:
     hacksaw ridge
     american psycho
     shutter island
+    batman vs superman
     puss in boots 2
     knives out
     glass onion
