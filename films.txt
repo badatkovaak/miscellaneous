@@ -54,6 +54,7 @@ watched:
     drive
     miracle on hudson
     dont look up
+    one flew over the cuckooos nest
     hacksaw ridge
     american psycho
     shutter island
@@ -99,13 +100,13 @@ to watch:
   burn after reading
   collateral
   the big lebowski
-
-
-  harry potter ?
-  john wick 4 ?
-  all the money in the world ?
-  suburbicon ?
-  ad astra ?
-  no sudden moves ?
-
-
+  magnolia
+  boogie nights
+  harry potter
+  john wick 4
+  all the money in the world
+  suburbicon
+  ad astra
+  no sudden moves
+  phantom thread
+  a rainy day in new york
