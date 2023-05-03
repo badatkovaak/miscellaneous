@@ -23,11 +23,8 @@ watched:
   Qventin Tarantino
     pulp fiction
     reservoir dogs
-    kill bill
-    sin city
     the hatefull eight
     django unchained
-    inglorious bastards
     once upon a time in hollywood
     
   Steven Spilberg
@@ -85,6 +82,8 @@ watched:
     the hitman's bodyguard
     the menu
     bullet train
+    R.E.D. & R.E.D 2
+    babylon
 
 to watch:
   operation fortune
@@ -111,5 +110,28 @@ to watch:
   phantom thread
   a rainy day in new york
   tetris
-  
+  girl with dragon tattoo
+  kill bill
+  sin city
+  inglorious bastards
+ 
+ 
+shows:
+   arcane
+   euphoria
+   breaking bad
+   the boys
+   sherlock
+    
+
+shows to watch:
+  the sopranos
+  narcos
+  south park
+  rick and morty
+  true detective
+  friends
+  better call soul
+  the mandalorian
+
   
